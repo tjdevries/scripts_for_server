@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "You are running the scripts to refresh your server"
 echo "Your library numbers are as follows: "
 
