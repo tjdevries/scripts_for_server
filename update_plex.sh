@@ -16,6 +16,5 @@ read library
 sudo su plex - << run_plex_stuff
 export LD_LIBRARY_PATH=/usr/lib/plexmediaserver
 /usr/lib/plexmediaserver/Plex\ Media\ Scanner --scan --deep --refresh --force --section $library
-
 run_plex_stuff
 
